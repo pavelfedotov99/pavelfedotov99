@@ -1,3 +1,3 @@
-Pavel Fedotov, 22...
+Pavel Fedotov, 22\n
 St. Petersburg
 Data analysis and data science 
